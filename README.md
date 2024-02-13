@@ -5,6 +5,6 @@
 
 สำหรับวิชา oop
 
-![download banner](./toyota.jpg)
+![banner](./toyota.jpg)
 
 อภิรัชชะตะ โพธิสาร
